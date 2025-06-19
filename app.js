@@ -1,6 +1,7 @@
-const GITHUB_TOKEN = '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';
-const REPO = 'mrz-2196f3/GithubDB-Demo';
-const API = 'https://api.github.com/repos/' + REPO + '/contents/';
+const GITHUB_TOKEN = 'PUT YOUR GITHUB PAT HERE'; // Personal Access Token or PAT generated via Github
+// NOTE: Allow Read And Write on your PAT Permissions 'Contents' so this program will work/run properly.
+const REPO = 'mrz-2196f3/GithubDB-Demo'; // Change your github repo here. 'username/repo'
+const API = 'https://api.github.com/repos/' + REPO + '/contents/'; // DO NOT CHANGE/MODIFY
 
 let currentUser = null;
 
@@ -30,7 +31,7 @@ async function updateFile(file, newData, message, sha) {
   return res.json();
 }
 
-// Authentication
+// Authentication includes Register and Login
 async function register() {
   const username = document.getElementById('username').value;
   const password = document.getElementById('password').value;
@@ -116,6 +117,7 @@ async function loadFeed() {
   });
 }
 
+// User Interactions (Comment and Like)
 async function likePost(postId) {
   const postsFile = await fetchFile('posts.json');
   const posts = postsFile.data;
