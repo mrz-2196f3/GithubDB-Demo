@@ -4,7 +4,8 @@
     "user": "dev_wuji",
     "text": "hi",
     "likes": [
-      "dev_wuji"
+      "dev_wuji",
+      "test1"
     ],
     "comments": [
       {
