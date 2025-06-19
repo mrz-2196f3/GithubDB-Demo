@@ -3,7 +3,9 @@
     "id": 1750323149843,
     "user": "dev_wuji",
     "text": "hi",
-    "likes": [],
+    "likes": [
+      "dev_wuji"
+    ],
     "comments": [],
     "time": "2025-06-19T08:52:29.843Z"
   }
