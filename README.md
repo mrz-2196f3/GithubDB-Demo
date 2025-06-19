@@ -1,5 +1,5 @@
 # Github as DataBase ( DEMO ).
-Experementing with Github. Turning Github as Database. As i am testing my skills and knowledge for Web Dev again.
+Experimenting with Github. Turning Github as Database. As i am testing my skills and knowledge for Web Dev again.
 
 ## Requirements 
 - Github PAT ( Personal Access Token )
