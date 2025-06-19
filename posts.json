@@ -6,7 +6,12 @@
     "likes": [
       "dev_wuji"
     ],
-    "comments": [],
+    "comments": [
+      {
+        "user": "dev_wuji",
+        "text": "gg"
+      }
+    ],
     "time": "2025-06-19T08:52:29.843Z"
   }
 ]
