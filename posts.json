@@ -23,7 +23,9 @@
     "id": 1750323229080,
     "user": "test1",
     "text": "hello\n",
-    "likes": [],
+    "likes": [
+      "test1"
+    ],
     "comments": [],
     "time": "2025-06-19T08:53:49.080Z"
   }
