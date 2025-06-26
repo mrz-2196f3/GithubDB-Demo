@@ -16,7 +16,7 @@ Experimenting with Github. Turning Github as a Database. As i am testing my skil
 1. Generate a Github PAT : [github.com/settings/personal-access-tokens](https://github.com/settings/personal-access-tokens/new)
 2. In your PAT's permission settings Allow `Read And Write` on "Contents"
 6. Download `'app.js'`, `'index.html'` and `'style.css'` from : [github.com/mrz-2196f3/GithubDB-Demo/SC](https://github.com/mrz-2196f3/GithubDB-Demo/tree/main/SC)
-7. Extract the downloaded files on your IDE / COMPILER.
+7. Extract the downloaded files on your WORKSPACE.
 8. Modify ```GITHUB_TOKEN = 'PUT YOUR GITHUB PAT HERE';``` with your own PAT
 9. Also modify the ```REPO = 'mrz-2196f3/GithubDB-Demo';``` with your-username/your-repo
 10. Just RUN and you're done <'3
