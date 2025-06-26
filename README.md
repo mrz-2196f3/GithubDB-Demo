@@ -1,4 +1,4 @@
-# Github as DataBase ( DEMO ).
+# Github as a DataBase ( DEMO ).
 Experimenting with Github. Turning Github as Database. As i am testing my skills and knowledge for Web Dev again.
 
 ## Requirements 
