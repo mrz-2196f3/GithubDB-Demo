@@ -2,7 +2,8 @@
 Experimenting with Github. Turning Github as Database. As i am testing my skills and knowledge for Web Dev again.
 
 ## Requirements 
-- Github PAT ( Personal Access Token )
+- Github PAT ( Personal Access Token ).
+- Visual Studio Code or Any other Code Editors.
   
 ## Contacts 
 - [Facebook](https://www.facebook.com/mrz-2196f3)
